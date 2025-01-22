@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐄𝐍𝐙𝐎 𝐓𝐄𝐂𝐇"
+    "value"Malikmosh"
   },
-    "NUMERO_OWNER":
+    "NUMERO_OWNER": "256700273834"
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254784115308"
+    "value": "256700273834"
   },
     "WARN_COUNT":
   {
